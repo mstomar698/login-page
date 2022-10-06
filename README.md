@@ -1,5 +1,6 @@
 # Practice hub
 
 - Helping my self and others.
-- donot use it for real contributions
-- just for practing PR and branching in repos.
+- Do Not use it for real contributions
+- Just for practing PR and branching in repos.
+- Checking new libraries.
