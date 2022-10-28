@@ -5,5 +5,8 @@
 - Just for practing PR and branching in repos.
 - Checking new libraries.
 
+#### learning
 
-#### learning 
+#### Testing new PC
+
+- GIT and ALL Binaries added and checked
