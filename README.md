@@ -7,6 +7,4 @@
 
 #### learning
 
-#### Testing new PC
-
-- GIT and ALL Binaries added and checked
+#### Testing 
